@@ -10,3 +10,5 @@
 # from vscode.
 # edited while master was selected, going to try to create a new
 # branch
+
+# suppose I made this one last change, can I push that to git as a commit?
